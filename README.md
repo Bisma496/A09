@@ -1,24 +1,11 @@
-# A09 — Add Town Hall Navigation (Chapter 7)
+A09 - Town Hall Navigation
 
-Student: Bisma  
-UCID: bt336  
-Assignment due: November 10, 2026
+In this assignment, I added the navigation menu to the Town Hall website and worked on the dropdown menus for Speakers and About Us. I also updated the Scott Sampson page and made a few changes to the CSS to match the Chapter 7 examples.
 
-This project completes Exercise 7-1 (horizontal flexbox navigation) and Exercise 7-2 (drop-down submenus for Speakers and About Us).
+I went through the website afterward to check that the menus, links, and pictures were working.
 
-## Links (after publishing the A09 repository with GitHub Pages)
+GitHub Repository:
+https://github.com/Bisma496/A09
 
-- Repository: https://github.com/bt336/A09
-- Website: https://bt336.github.io/A09/index.html
-
-## Files
-
-- `index.html` — home page with navigation, video link, and circle-style ticket list.
-- `styles/main.css` — page styling and dropdown navigation.
-- `speakers/sampson.html` — Scott Sampson page with navigation.
-- `speakers/` — other speaker pages.
-- `images/` — Town Hall images.
-
-### Publishing
-
-Create a public repository named `A09` under `bt336`, upload the files **at the repository root**, then enable **Settings → Pages → Deploy from a branch → main / (root)**. Check the website URL after deployment.
+Website Link:
+https://bisma496.github.io/A09/index.html
